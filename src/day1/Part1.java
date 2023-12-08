@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.LinkedList;
 
-public class Solution {
+public class Part1 {
 
 	public static void main(String[] args) {
 		String inputPath = "resources/inputs/day1.txt";
